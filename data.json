@@ -1,0 +1,63 @@
+[
+    {
+        "name":"iPhone 13",
+        "price":599,
+        "count":10,
+        "id":1
+    },
+    {
+        "name":"iPhone 14",
+        "price":699,
+        "count":10,
+        "id":2
+    },
+    {
+        "name":"iPhone 15",
+        "price":799,
+        "count":20,
+        "id":3
+    },
+    {
+        "name":"iPhone 15 Pro",
+        "price":999,
+        "count":50,
+        "id":4
+    },
+    {
+        "name":"iPhone SE",
+        "price":429,
+        "count":15,
+        "id":5
+    },
+    {
+        "name":"iPad Mini",
+        "price":499,
+        "count":24,
+        "id":6
+    },
+    {
+        "name":"iPad",
+        "price":349,
+        "count":30,
+        "id":7
+    },
+    {
+        "name":"iPad Air M2",
+        "price":599,
+        "count":40,
+        "id":8
+    },
+    {
+        "name":"iPad Pro",
+        "price":999,
+        "count":50,
+        "id":9
+    },
+    {
+        "name":"MacBook Pro",
+        "price":1599,
+        "count":10,
+        "id":10
+    }
+  
+]
